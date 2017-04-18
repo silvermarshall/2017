@@ -188,7 +188,7 @@
         </sendList>
         <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="10534788" fileID="0" hue="-1" id="0" lockedInTime="false" looped="false" name="The Tea Party - Heaven Coming Down 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="1316219" startPoint="9218569" zOrder="1834">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1.2704861">
+            <parameter index="0" name="volume" parameterValue="1">
               <parameterKeyframes enableSplines="false">
                 <parameterKeyframe sampleOffset="4888" select="true" type="linear" value="0.7160661"/>
                 <parameterKeyframe sampleOffset="1066907" select="false" type="linear" value="0.7430931"/>
@@ -362,7 +362,7 @@
         </audioClip>
         <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="18682457" fileID="0" hue="-1" id="8" lockedInTime="false" looped="false" name="The Tea Party - Heaven Coming Down 48000 1" offline="false" select="false" sourceInPoint="9782494" sourceOutPoint="11465257" startPoint="16999694" zOrder="1837">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1">
+            <parameter index="0" name="volume" parameterValue="0.0021216">
               <parameterKeyframes enableSplines="false">
                 <parameterKeyframe sampleOffset="10843910" select="false" type="linear" value="0.65"/>
                 <parameterKeyframe sampleOffset="10966429" select="true" type="linear" value="0.0413043"/>
@@ -387,7 +387,7 @@
           </channelMap>
         </audioClip>
       </audioTrack>
-      <audioTrack automationLaneOpenState="false" id="10020" index="2" select="false" visible="true">
+      <audioTrack automationLaneOpenState="false" id="10020" index="2" select="true" visible="true">
         <trackParameters trackHeight="60">
           <name>Track 16</name>
         </trackParameters>
@@ -400,7 +400,7 @@
           </component>
           <component componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="1"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
             <parameter index="0" name="Pan" parameterValue="0"/>
@@ -582,7 +582,7 @@
           </component>
           <component componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="1"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentID="Audition.StereoPanner" id="trackPan" name="StereoPanner" powered="true">
             <parameter index="0" name="Pan" parameterValue="0"/>
@@ -751,7 +751,7 @@
           </sendSlot>
         </sendList>
       </audioTrack>
-      <audioTrack automationLaneOpenState="false" id="10005" index="4" select="true" visible="true">
+      <audioTrack automationLaneOpenState="false" id="10005" index="4" select="false" visible="true">
         <trackParameters trackHeight="60">
           <name>Track 5</name>
         </trackParameters>
@@ -932,7 +932,7 @@
             <component id="sendPan" powered="true"/>
           </sendSlot>
         </sendList>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="4800000" fileID="8" hue="-1" id="0" lockedInTime="false" looped="false" name="master_mixdown" offline="false" select="true" sourceInPoint="0" sourceOutPoint="4800000" startPoint="0" zOrder="1847">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="4800000" fileID="1" hue="-1" id="0" lockedInTime="false" looped="false" name="master_mixdown" offline="false" select="false" sourceInPoint="0" sourceOutPoint="4800000" startPoint="0" zOrder="1847">
           <effectsRack preFader="true">
             <component id="rackMix" powered="true">
               <parameter index="0" parameterValue="0"/>
@@ -1162,7 +1162,7 @@
             <component id="sendPan" powered="true"/>
           </sendSlot>
         </sendList>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="29708373" fileID="1" hue="-1" id="0" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="760361" startPoint="28948012" zOrder="1833">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="29708373" fileID="2" hue="-1" id="0" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="760361" startPoint="28948012" zOrder="1833">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1183,7 +1183,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="-1" endPoint="29887711" fileID="1" hue="-1" id="1" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="478300" startPoint="29409411" zOrder="1830">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="-1" endPoint="29887711" fileID="2" hue="-1" id="1" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="478300" startPoint="29409411" zOrder="1830">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1204,7 +1204,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="3" endPoint="32449366" fileID="1" hue="-1" id="2" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="false" sourceInPoint="478300" sourceOutPoint="3039955" startPoint="29887711" zOrder="1831">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="3" endPoint="32449366" fileID="2" hue="-1" id="2" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="false" sourceInPoint="478300" sourceOutPoint="3039955" startPoint="29887711" zOrder="1831">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1225,7 +1225,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="2" crossFadeTailClipID="-1" endPoint="38146438" fileID="1" hue="-1" id="3" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="false" sourceInPoint="5184420" sourceOutPoint="11127804" startPoint="32203054" zOrder="1832">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="2" crossFadeTailClipID="-1" endPoint="38146438" fileID="2" hue="-1" id="3" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="false" sourceInPoint="5184420" sourceOutPoint="11127804" startPoint="32203054" zOrder="1832">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1239,6 +1239,95 @@
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="246312" shape="19" startPoint="0" type="log"/>
           <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="5943384" shape="18" startPoint="5943384" type="log"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+            <channel index="1" sourceIndex="1"/>
+          </channelMap>
+        </audioClip>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="5" endPoint="38490916" fileID="2" hue="-1" id="4" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="true" sourceInPoint="11127804" sourceOutPoint="11472282" startPoint="38146438" zOrder="1867">
+          <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="19" startPoint="0" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="344478" shape="18" startPoint="183844" type="log"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+            <channel index="1" sourceIndex="1"/>
+          </channelMap>
+        </audioClip>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="4" crossFadeTailClipID="6" endPoint="38940189" fileID="2" hue="-1" id="5" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="true" sourceInPoint="100317" sourceOutPoint="710224" startPoint="38330282" zOrder="1861">
+          <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1.9381174"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="160634" shape="19" startPoint="0" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="609907" shape="18" startPoint="595265" type="log"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+            <channel index="1" sourceIndex="1"/>
+          </channelMap>
+        </audioClip>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="5" crossFadeTailClipID="7" endPoint="39247281" fileID="2" hue="-1" id="6" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="true" sourceInPoint="465121" sourceOutPoint="786855" startPoint="38925547" zOrder="1863">
+          <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1">
+              <parameterKeyframes enableSplines="false">
+                <parameterKeyframe sampleOffset="526961" select="false" type="linear" value="0.8166667"/>
+                <parameterKeyframe sampleOffset="723026" select="true" type="linear" value="0.65"/>
+              </parameterKeyframes>
+            </parameter>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="14642" shape="19" startPoint="0" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="321734" shape="2" startPoint="155123" type="log"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+            <channel index="1" sourceIndex="1"/>
+          </channelMap>
+        </audioClip>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="6" crossFadeTailClipID="-1" endPoint="51510935" fileID="5" hue="-1" id="7" lockedInTime="false" looped="false" name="the tragically hip - fiddlers green 48000 1" offline="false" select="true" sourceInPoint="307877" sourceOutPoint="12738142" startPoint="39080670" zOrder="1865">
+          <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="166611" shape="40" startPoint="0" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="12430265" shape="0" startPoint="12430265" type="cosine"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <channelMap>
@@ -1428,7 +1517,7 @@
             <component id="sendPan" powered="true"/>
           </sendSlot>
         </sendList>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="54070079" fileID="2" hue="-1" id="0" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="2687069" startPoint="51383010" zOrder="1835">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="54070079" fileID="3" hue="-1" id="0" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="2687069" startPoint="51383010" zOrder="1835">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1450,7 +1539,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="-1" endPoint="60032419" fileID="2" hue="-1" id="1" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="false" sourceInPoint="3970759" sourceOutPoint="9974473" startPoint="54028705" zOrder="1834">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="-1" endPoint="60032419" fileID="3" hue="-1" id="1" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="false" sourceInPoint="3970759" sourceOutPoint="9974473" startPoint="54028705" zOrder="1834">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1472,7 +1561,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="61303403" fileID="2" hue="-1" id="2" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="false" sourceInPoint="9974473" sourceOutPoint="11245457" startPoint="60032419" zOrder="1830">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="61303403" fileID="3" hue="-1" id="2" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="false" sourceInPoint="9974473" sourceOutPoint="11245457" startPoint="60032419" zOrder="1830">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1494,7 +1583,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="4" endPoint="62349201" fileID="2" hue="-1" id="3" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="false" sourceInPoint="11245457" sourceOutPoint="12291255" startPoint="61303403" zOrder="1831">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="4" endPoint="62349201" fileID="3" hue="-1" id="3" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="false" sourceInPoint="11245457" sourceOutPoint="12291255" startPoint="61303403" zOrder="1831">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1516,7 +1605,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="3" crossFadeTailClipID="5" endPoint="63918765" fileID="2" hue="-1" id="4" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="false" sourceInPoint="9964617" sourceOutPoint="11579295" startPoint="62304087" zOrder="1832">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="3" crossFadeTailClipID="5" endPoint="63918765" fileID="3" hue="-1" id="4" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="false" sourceInPoint="9964617" sourceOutPoint="11579295" startPoint="62304087" zOrder="1832">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1538,7 +1627,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="4" crossFadeTailClipID="-1" endPoint="66290459" fileID="3" hue="-1" id="5" lockedInTime="false" looped="false" name="Neil Young   Rockin' In The Free World Live SNL 1989 48000 1" offline="false" select="false" sourceInPoint="12153320" sourceOutPoint="14571202" startPoint="63872577" zOrder="1833">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="4" crossFadeTailClipID="-1" endPoint="66290459" fileID="4" hue="-1" id="5" lockedInTime="false" looped="false" name="Neil Young   Rockin' In The Free World Live SNL 1989 48000 1" offline="false" select="false" sourceInPoint="12153320" sourceOutPoint="14571202" startPoint="63872577" zOrder="1833">
           <effectsRack preFader="true">
             <component id="rackMix" powered="true">
               <parameter index="0" parameterValue="0"/>
@@ -1557,7 +1646,7 @@
                 <parameter index="0" name="Accuracy" parameterValue="0.1209973"/>
                 <parameter index="1" name="Master Gain" parameterValue="0.5"/>
                 <parameter index="2" name="Range" parameterValue="0.3924051"/>
-                <parameter index="3" name="Reset" parameterValue="5.859375"/>
+                <parameter index="3" name="Reset" parameterValue="0"/>
                 <parameter index="4" name="EQ Band 1" parameterValue="0.5"/>
                 <parameter index="5" name="EQ Band 2" parameterValue="0.5"/>
                 <parameter index="6" name="EQ Band 3" parameterValue="0.5128894"/>
@@ -1568,7 +1657,7 @@
                 <parameter index="11" name="EQ Band 8" parameterValue="0.5180451"/>
                 <parameter index="12" name="EQ Band 9" parameterValue="0.5464017"/>
                 <parameter index="13" name="EQ Band 10" parameterValue="0.5219119"/>
-                <parameter index="14" name="Is Processing" parameterValue="1"/>
+                <parameter index="14" name="Is Processing" parameterValue="0"/>
               </component>
             </slot>
           </effectsRack>
@@ -1775,95 +1864,6 @@
             <component id="sendPan" powered="true"/>
           </sendSlot>
         </sendList>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="38485747" fileID="1" hue="-1" id="0" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="false" sourceInPoint="11127804" sourceOutPoint="11472282" startPoint="38141269" zOrder="1831">
-          <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0"/>
-          </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="344478" shape="18" startPoint="183844" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
-          <editParameter parameterIndex="0" slotIndex="4294967280"/>
-          <channelMap>
-            <channel index="0" sourceIndex="0"/>
-            <channel index="1" sourceIndex="1"/>
-          </channelMap>
-        </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="2" endPoint="38935020" fileID="1" hue="-1" id="1" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="false" sourceInPoint="100317" sourceOutPoint="710224" startPoint="38325113" zOrder="1830">
-          <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1.9381174"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0"/>
-          </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="160634" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="609907" shape="18" startPoint="595265" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
-          <editParameter parameterIndex="0" slotIndex="4294967280"/>
-          <channelMap>
-            <channel index="0" sourceIndex="0"/>
-            <channel index="1" sourceIndex="1"/>
-          </channelMap>
-        </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="1" crossFadeTailClipID="3" endPoint="39242112" fileID="1" hue="-1" id="2" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="false" sourceInPoint="465121" sourceOutPoint="786855" startPoint="38920378" zOrder="1832">
-          <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1.9381177">
-              <parameterKeyframes enableSplines="false">
-                <parameterKeyframe sampleOffset="526961" select="false" type="linear" value="0.8166667"/>
-                <parameterKeyframe sampleOffset="723026" select="true" type="linear" value="0.65"/>
-              </parameterKeyframes>
-            </parameter>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0"/>
-          </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="14642" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="321734" shape="2" startPoint="155123" type="log"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
-          <editParameter parameterIndex="0" slotIndex="4294967280"/>
-          <channelMap>
-            <channel index="0" sourceIndex="0"/>
-            <channel index="1" sourceIndex="1"/>
-          </channelMap>
-        </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="2" crossFadeTailClipID="-1" endPoint="51505766" fileID="4" hue="-1" id="3" lockedInTime="false" looped="false" name="the tragically hip - fiddlers green 48000 1" offline="false" select="false" sourceInPoint="307877" sourceOutPoint="12738142" startPoint="39075501" zOrder="1833">
-          <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1"/>
-            <parameter index="1" name="static gain" parameterValue="1"/>
-          </component>
-          <component componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
-            <parameter index="0" parameterValue="0"/>
-            <parameter index="1" name="mute" parameterValue="0"/>
-          </component>
-          <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
-            <parameter index="0" name="Pan" parameterValue="0"/>
-          </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="166611" shape="40" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="12430265" shape="0" startPoint="12430265" type="cosine"/>
-          <editParameter parameterIndex="0" slotIndex="4294967281"/>
-          <editParameter parameterIndex="0" slotIndex="4294967280"/>
-          <channelMap>
-            <channel index="0" sourceIndex="0"/>
-            <channel index="1" sourceIndex="1"/>
-          </channelMap>
-        </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10012" index="8" select="false" visible="true">
         <trackParameters trackHeight="60">
@@ -2046,9 +2046,9 @@
             <component id="sendPan" powered="true"/>
           </sendSlot>
         </sendList>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="20737007" fileID="5" hue="-1" id="0" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="2740634" startPoint="17996373" zOrder="1838">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="20737007" fileID="6" hue="-1" id="0" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="2740634" startPoint="17996373" zOrder="1838">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1.5508698">
+            <parameter index="0" name="volume" parameterValue="1">
               <parameterKeyframes enableSplines="false">
                 <parameterKeyframe sampleOffset="4998" select="true" type="linear" value="0.765942"/>
                 <parameterKeyframe sampleOffset="8833006" select="false" type="linear" value="0.65"/>
@@ -2080,7 +2080,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="-1" endPoint="22970183" fileID="5" hue="-1" id="1" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="5989610" sourceOutPoint="8306687" startPoint="20653106" zOrder="1837">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="-1" endPoint="22970183" fileID="6" hue="-1" id="1" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="5989610" sourceOutPoint="8306687" startPoint="20653106" zOrder="1837">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1">
               <parameterKeyframes enableSplines="false">
@@ -2113,7 +2113,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="3" endPoint="23036373" fileID="5" hue="-1" id="2" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="8306687" sourceOutPoint="8372877" startPoint="22970183" zOrder="1830">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="3" endPoint="23036373" fileID="6" hue="-1" id="2" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="8306687" sourceOutPoint="8372877" startPoint="22970183" zOrder="1830">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1">
               <parameterKeyframes enableSplines="false">
@@ -2146,7 +2146,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="2" crossFadeTailClipID="4" endPoint="23074717" fileID="5" hue="-1" id="3" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="8306687" sourceOutPoint="8372877" startPoint="23008527" zOrder="1831">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="2" crossFadeTailClipID="4" endPoint="23074717" fileID="6" hue="-1" id="3" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="8306687" sourceOutPoint="8372877" startPoint="23008527" zOrder="1831">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1">
               <parameterKeyframes enableSplines="false">
@@ -2179,7 +2179,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="3" crossFadeTailClipID="5" endPoint="23111965" fileID="5" hue="-1" id="4" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="8306687" sourceOutPoint="8372877" startPoint="23045775" zOrder="1832">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="3" crossFadeTailClipID="5" endPoint="23111965" fileID="6" hue="-1" id="4" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="8306687" sourceOutPoint="8372877" startPoint="23045775" zOrder="1832">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1">
               <parameterKeyframes enableSplines="false">
@@ -2212,7 +2212,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="4" crossFadeTailClipID="6" endPoint="23150563" fileID="5" hue="-1" id="5" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="8306687" sourceOutPoint="8372877" startPoint="23084373" zOrder="1833">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="4" crossFadeTailClipID="6" endPoint="23150563" fileID="6" hue="-1" id="5" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="8306687" sourceOutPoint="8372877" startPoint="23084373" zOrder="1833">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1">
               <parameterKeyframes enableSplines="false">
@@ -2245,7 +2245,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="5" crossFadeTailClipID="7" endPoint="23203379" fileID="5" hue="-1" id="6" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="8306687" sourceOutPoint="8395883" startPoint="23114183" zOrder="1834">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="5" crossFadeTailClipID="7" endPoint="23203379" fileID="6" hue="-1" id="6" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="8306687" sourceOutPoint="8395883" startPoint="23114183" zOrder="1834">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1">
               <parameterKeyframes enableSplines="false">
@@ -2278,7 +2278,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="6" crossFadeTailClipID="8" endPoint="26668488" fileID="5" hue="-1" id="7" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="8381183" sourceOutPoint="11856000" startPoint="23193671" zOrder="1836">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="6" crossFadeTailClipID="8" endPoint="26668488" fileID="6" hue="-1" id="7" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="8381183" sourceOutPoint="11856000" startPoint="23193671" zOrder="1836">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1">
               <parameterKeyframes enableSplines="false">
@@ -2311,7 +2311,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="7" crossFadeTailClipID="-1" endPoint="29329524" fileID="5" hue="-1" id="8" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="12658874" sourceOutPoint="15728640" startPoint="26259758" zOrder="1835">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="7" crossFadeTailClipID="-1" endPoint="29329524" fileID="6" hue="-1" id="8" lockedInTime="false" looped="false" name="09 Lost Together 48000 1" offline="false" select="false" sourceInPoint="12658874" sourceOutPoint="15728640" startPoint="26259758" zOrder="1835">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -2514,7 +2514,7 @@
             <component id="sendPan" powered="true"/>
           </sendSlot>
         </sendList>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="6462481" fileID="6" hue="-1" id="0" lockedInTime="false" looped="false" name="01 Grab the Devil By the Horns and _ 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="1727173" startPoint="4735308" zOrder="1832">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="6462481" fileID="7" hue="-1" id="0" lockedInTime="false" looped="false" name="01 Grab the Devil By the Horns and _ 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="1727173" startPoint="4735308" zOrder="1832">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -2535,7 +2535,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="-1" endPoint="9577457" fileID="7" hue="-1" id="1" lockedInTime="false" looped="false" name="Sum 41 - Fat Lip &amp; Pain For Pleasure_up1semitone 48000 1" offline="false" select="false" sourceInPoint="49157" sourceOutPoint="3187306" startPoint="6439308" zOrder="1830">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="-1" endPoint="9577457" fileID="8" hue="-1" id="1" lockedInTime="false" looped="false" name="Sum 41 - Fat Lip &amp; Pain For Pleasure_up1semitone 48000 1" offline="false" select="false" sourceInPoint="49157" sourceOutPoint="3187306" startPoint="6439308" zOrder="1830">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1.2502609">
               <parameterKeyframes enableSplines="false">
@@ -2636,9 +2636,9 @@
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </masterTrack>
     </tracks>
-    <sessionState ctiPosition="5408548" smpteStart="0">
-      <selectionState selectionDuration="0" selectionStart="5408548"/>
-      <viewState horizontalViewDuration="68485977" horizontalViewStart="0" trackControlsWidth="224" verticalScrollOffset="0"/>
+    <sessionState ctiPosition="51759817" smpteStart="0">
+      <selectionState selectionDuration="0" selectionStart="51759817"/>
+      <viewState horizontalViewDuration="24563165" horizontalViewStart="36878729" trackControlsWidth="224" verticalScrollOffset="0"/>
       <timeFormatState beatsPerBar="4" beatsPerMinute="120.00" customFrameRate="12" linkToDefaultTimeSettings="true" noteLength="4" subdivisions="16" timeCodeDropFrame="false" timeCodeFrameRate="30" timeCodeNTSC="false" timeFormat="timeFormatDecimal"/>
     </sessionState>
     <xmpMetadata><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
@@ -2648,15 +2648,15 @@
             xmlns:xmp="http://ns.adobe.com/xap/1.0/">
          <xmp:CreatorTool>Adobe Audition CS6 (Windows)</xmp:CreatorTool>
          <xmp:CreateDate>2017-04-08T18:55:06-04:00</xmp:CreateDate>
-         <xmp:MetadataDate>2017-04-17T15:46:59-04:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2017-04-17T15:46:59-04:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2017-04-17T16:11-04:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2017-04-17T16:11-04:00</xmp:ModifyDate>
       </rdf:Description>
       <rdf:Description rdf:about=""
             xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
             xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
             xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#">
-         <xmpMM:InstanceID>xmp.iid:CC780EF3A523E7119D0AC34065B1B991</xmpMM:InstanceID>
-         <xmpMM:DocumentID>xmp.did:59F03B3AA523E7119D0AC34065B1B991</xmpMM:DocumentID>
+         <xmpMM:InstanceID>xmp.iid:F2B2E4F9A923E7118A04FA675A24383E</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:C60B177CA923E7118A04FA675A24383E</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:8C9D8D68AE1CE711A718CF2B16A3AC10</xmpMM:OriginalDocumentID>
          <xmpMM:History>
             <rdf:Seq>
@@ -4522,11 +4522,67 @@
                   <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:C50B177CA923E7118A04FA675A24383E</stEvt:instanceID>
+                  <stEvt:when>2017-04-17T16:07:29-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:C60B177CA923E7118A04FA675A24383E</stEvt:instanceID>
+                  <stEvt:when>2017-04-17T16:07:29-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:C70B177CA923E7118A04FA675A24383E</stEvt:instanceID>
+                  <stEvt:when>2017-04-17T16:09:32-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:C80B177CA923E7118A04FA675A24383E</stEvt:instanceID>
+                  <stEvt:when>2017-04-17T16:09:32-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:C90B177CA923E7118A04FA675A24383E</stEvt:instanceID>
+                  <stEvt:when>2017-04-17T16:10:03-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:CA0B177CA923E7118A04FA675A24383E</stEvt:instanceID>
+                  <stEvt:when>2017-04-17T16:10:03-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F1B2E4F9A923E7118A04FA675A24383E</stEvt:instanceID>
+                  <stEvt:when>2017-04-17T16:11-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:F2B2E4F9A923E7118A04FA675A24383E</stEvt:instanceID>
+                  <stEvt:when>2017-04-17T16:11-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
-            <stRef:instanceID>xmp.iid:58F03B3AA523E7119D0AC34065B1B991</stRef:instanceID>
-            <stRef:documentID>xmp.did:88829D0FA123E71198B4EE2A87BB7039</stRef:documentID>
+            <stRef:instanceID>xmp.iid:C50B177CA923E7118A04FA675A24383E</stRef:instanceID>
+            <stRef:documentID>xmp.did:59F03B3AA523E7119D0AC34065B1B991</stRef:documentID>
             <stRef:originalDocumentID>xmp.did:8C9D8D68AE1CE711A718CF2B16A3AC10</stRef:originalDocumentID>
          </xmpMM:DerivedFrom>
       </rdf:Description>
@@ -4575,45 +4631,7 @@
                                                                                                     
                            
 <?xpacket end="w"?>]]></xmpMetadata>
-    <clipGroups>
-      <clipGroup hue="126" id="0">
-        <name>Group 16</name>
-        <item clipID="0" trackID="10007"/>
-        <item clipID="0" trackID="10002"/>
-        <item clipID="1" trackID="10002"/>
-        <item clipID="2" trackID="10002"/>
-        <item clipID="3" trackID="10002"/>
-        <item clipID="4" trackID="10002"/>
-        <item clipID="5" trackID="10002"/>
-        <item clipID="6" trackID="10002"/>
-        <item clipID="7" trackID="10002"/>
-        <item clipID="8" trackID="10002"/>
-        <item clipID="0" trackID="10010"/>
-        <item clipID="1" trackID="10010"/>
-        <item clipID="2" trackID="10010"/>
-        <item clipID="3" trackID="10010"/>
-        <item clipID="0" trackID="10019"/>
-        <item clipID="1" trackID="10019"/>
-        <item clipID="2" trackID="10019"/>
-        <item clipID="3" trackID="10019"/>
-        <item clipID="4" trackID="10019"/>
-        <item clipID="5" trackID="10019"/>
-        <item clipID="0" trackID="10027"/>
-        <item clipID="1" trackID="10027"/>
-        <item clipID="2" trackID="10027"/>
-        <item clipID="3" trackID="10027"/>
-        <item clipID="0" trackID="10012"/>
-        <item clipID="1" trackID="10012"/>
-        <item clipID="2" trackID="10012"/>
-        <item clipID="3" trackID="10012"/>
-        <item clipID="4" trackID="10012"/>
-        <item clipID="5" trackID="10012"/>
-        <item clipID="6" trackID="10012"/>
-        <item clipID="7" trackID="10012"/>
-        <item clipID="8" trackID="10012"/>
-        <item clipID="1" trackID="10007"/>
-      </clipGroup>
-    </clipGroups>
+    <clipGroups/>
     <metronome enabled="false" pattern="downBeat subdivision subdivision subdivision " soundSet="sticks">
       <metronomeTrack automationLaneOpenState="false" id="40000" index="0" select="false" visible="false">
         <trackParameters trackHeight="55">
@@ -4802,14 +4820,14 @@
 
   <files>
     <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\The Tea Party - Heaven Coming Down 48000 1.wav" id="0" mediaHandler="AmioWav" relativePath="Conformed Files/The Tea Party - Heaven Coming Down 48000 1.wav"/>
-    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\01 The Oaf 48000 1.wav" id="1" mediaHandler="AmioWav" relativePath="Conformed Files/01 The Oaf 48000 1.wav"/>
-    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\Neil Young - Keep on Rockin in the F 1 48000 1.wav" id="2" mediaHandler="AmioWav" relativePath="Conformed Files/Neil Young - Keep on Rockin in the F 1 48000 1.wav"/>
-    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\Neil Young   Rockin' In The Free World Live SNL 1989 48000 1.wav" id="3" mediaHandler="AmioWav" relativePath="Conformed Files/Neil Young   Rockin' In The Free World Live SNL 1989 48000 1.wav"/>
-    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\the tragically hip - fiddlers green 48000 1.wav" id="4" mediaHandler="AmioWav" relativePath="Conformed Files/the tragically hip - fiddlers green 48000 1.wav"/>
-    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\09 Lost Together 48000 1.wav" id="5" mediaHandler="AmioWav" relativePath="Conformed Files/09 Lost Together 48000 1.wav"/>
-    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\01 Grab the Devil By the Horns and _ 48000 1.wav" id="6" mediaHandler="AmioWav" relativePath="Conformed Files/01 Grab the Devil By the Horns and _ 48000 1.wav"/>
-    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\Sum 41 - Fat Lip &amp; Pain For Pleasure_up1semitone 48000 1.wav" id="7" mediaHandler="AmioWav" relativePath="Conformed Files/Sum 41 - Fat Lip &amp; Pain For Pleasure_up1semitone 48000 1.wav"/>
-    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\master_mixdown.mp3" id="8" mediaHandler="AmioMP3" relativePath="master_mixdown.mp3"/>
+    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\master_mixdown.mp3" id="1" mediaHandler="AmioMP3" relativePath="master_mixdown.mp3"/>
+    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\01 The Oaf 48000 1.wav" id="2" mediaHandler="AmioWav" relativePath="Conformed Files/01 The Oaf 48000 1.wav"/>
+    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\Neil Young - Keep on Rockin in the F 1 48000 1.wav" id="3" mediaHandler="AmioWav" relativePath="Conformed Files/Neil Young - Keep on Rockin in the F 1 48000 1.wav"/>
+    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\Neil Young   Rockin' In The Free World Live SNL 1989 48000 1.wav" id="4" mediaHandler="AmioWav" relativePath="Conformed Files/Neil Young   Rockin' In The Free World Live SNL 1989 48000 1.wav"/>
+    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\the tragically hip - fiddlers green 48000 1.wav" id="5" mediaHandler="AmioWav" relativePath="Conformed Files/the tragically hip - fiddlers green 48000 1.wav"/>
+    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\09 Lost Together 48000 1.wav" id="6" mediaHandler="AmioWav" relativePath="Conformed Files/09 Lost Together 48000 1.wav"/>
+    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\01 Grab the Devil By the Horns and _ 48000 1.wav" id="7" mediaHandler="AmioWav" relativePath="Conformed Files/01 Grab the Devil By the Horns and _ 48000 1.wav"/>
+    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\Sum 41 - Fat Lip &amp; Pain For Pleasure_up1semitone 48000 1.wav" id="8" mediaHandler="AmioWav" relativePath="Conformed Files/Sum 41 - Fat Lip &amp; Pain For Pleasure_up1semitone 48000 1.wav"/>
   </files>
 
   <audioDevice inputID="" outputID="A4C89514-35D5-4AAD-83D3-0ADB499F1C51">
