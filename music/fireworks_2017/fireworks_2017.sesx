@@ -387,7 +387,7 @@
           </channelMap>
         </audioClip>
       </audioTrack>
-      <audioTrack automationLaneOpenState="false" id="10020" index="2" select="true" visible="true">
+      <audioTrack automationLaneOpenState="false" id="10020" index="2" select="false" visible="true">
         <trackParameters trackHeight="60">
           <name>Track 16</name>
         </trackParameters>
@@ -1246,7 +1246,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="5" endPoint="38490916" fileID="2" hue="-1" id="4" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="true" sourceInPoint="11127804" sourceOutPoint="11472282" startPoint="38146438" zOrder="1867">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="5" endPoint="38490916" fileID="2" hue="-1" id="4" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="false" sourceInPoint="11127804" sourceOutPoint="11472282" startPoint="38146438" zOrder="1867">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1267,7 +1267,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="4" crossFadeTailClipID="6" endPoint="38940189" fileID="2" hue="-1" id="5" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="true" sourceInPoint="100317" sourceOutPoint="710224" startPoint="38330282" zOrder="1861">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="4" crossFadeTailClipID="6" endPoint="38940189" fileID="2" hue="-1" id="5" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="false" sourceInPoint="100317" sourceOutPoint="710224" startPoint="38330282" zOrder="1861">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1.9381174"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1288,7 +1288,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="5" crossFadeTailClipID="7" endPoint="39247281" fileID="2" hue="-1" id="6" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="true" sourceInPoint="465121" sourceOutPoint="786855" startPoint="38925547" zOrder="1863">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="5" crossFadeTailClipID="7" endPoint="39247281" fileID="2" hue="-1" id="6" lockedInTime="false" looped="false" name="01 The Oaf 48000 1" offline="false" select="false" sourceInPoint="465121" sourceOutPoint="786855" startPoint="38925547" zOrder="1863">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1">
               <parameterKeyframes enableSplines="false">
@@ -1314,7 +1314,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="6" crossFadeTailClipID="-1" endPoint="51510935" fileID="5" hue="-1" id="7" lockedInTime="false" looped="false" name="the tragically hip - fiddlers green 48000 1" offline="false" select="true" sourceInPoint="307877" sourceOutPoint="12738142" startPoint="39080670" zOrder="1865">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="6" crossFadeTailClipID="-1" endPoint="51510935" fileID="3" hue="-1" id="7" lockedInTime="false" looped="false" name="the tragically hip - fiddlers green 48000 1" offline="false" select="false" sourceInPoint="307877" sourceOutPoint="12738142" startPoint="39080670" zOrder="1865">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1336,7 +1336,7 @@
           </channelMap>
         </audioClip>
       </audioTrack>
-      <audioTrack automationLaneOpenState="false" id="10019" index="6" select="false" visible="true">
+      <audioTrack automationLaneOpenState="false" id="10019" index="6" select="true" visible="true">
         <trackParameters trackHeight="60">
           <name>Track 15</name>
         </trackParameters>
@@ -1517,7 +1517,7 @@
             <component id="sendPan" powered="true"/>
           </sendSlot>
         </sendList>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="54070079" fileID="3" hue="-1" id="0" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="2687069" startPoint="51383010" zOrder="1835">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="54857525" fileID="4" hue="-1" id="0" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="true" sourceInPoint="0" sourceOutPoint="3346590" startPoint="51510935" zOrder="2074">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1530,7 +1530,7 @@
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="2687069" shape="18" startPoint="2645695" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="3346590" shape="18" startPoint="3340517" type="log"/>
           <clipStretch adaptiveWindowSize="37" pitchAdjustment="0" preserveFormants="true" stretchMode="realtime" stretchQuality="high" stretchRatio="0.95" stretchType="solo" transientSensitivity="40"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
@@ -1539,7 +1539,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="-1" endPoint="60032419" fileID="3" hue="-1" id="1" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="false" sourceInPoint="3970759" sourceOutPoint="9974473" startPoint="54028705" zOrder="1834">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="2" endPoint="55213092" fileID="4" hue="-1" id="1" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="true" sourceInPoint="4004199" sourceOutPoint="4365839" startPoint="54851452" zOrder="2072">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1551,8 +1551,8 @@
           <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
             <parameter index="0" name="Pan" parameterValue="0"/>
           </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="41374" shape="19" startPoint="0" type="log"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="6003714" shape="0" startPoint="6003714" type="cosine"/>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="6073" shape="19" startPoint="0" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="361640" shape="18" startPoint="354583" type="log"/>
           <clipStretch adaptiveWindowSize="37" pitchAdjustment="0" preserveFormants="true" stretchMode="realtime" stretchQuality="high" stretchRatio="0.95" stretchType="solo" transientSensitivity="40"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
@@ -1561,7 +1561,29 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="61303403" fileID="3" hue="-1" id="2" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="false" sourceInPoint="9974473" sourceOutPoint="11245457" startPoint="60032419" zOrder="1830">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="1" crossFadeTailClipID="-1" endPoint="60821994" fileID="4" hue="-1" id="2" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="true" sourceInPoint="4358514" sourceOutPoint="9974473" startPoint="55206035" zOrder="2071">
+          <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="Pan" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="7057" shape="19" startPoint="0" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="5615959" shape="0" startPoint="5615959" type="cosine"/>
+          <clipStretch adaptiveWindowSize="37" pitchAdjustment="0" preserveFormants="true" stretchMode="realtime" stretchQuality="high" stretchRatio="0.95" stretchType="solo" transientSensitivity="40"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+            <channel index="1" sourceIndex="1"/>
+          </channelMap>
+        </audioClip>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="62092978" fileID="4" hue="-1" id="3" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="true" sourceInPoint="9974473" sourceOutPoint="11245457" startPoint="60821994" zOrder="2067">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1583,7 +1605,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="4" endPoint="62349201" fileID="3" hue="-1" id="3" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="false" sourceInPoint="11245457" sourceOutPoint="12291255" startPoint="61303403" zOrder="1831">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="5" endPoint="63138776" fileID="4" hue="-1" id="4" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="true" sourceInPoint="11245457" sourceOutPoint="12291255" startPoint="62092978" zOrder="2068">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1605,7 +1627,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="3" crossFadeTailClipID="5" endPoint="63918765" fileID="3" hue="-1" id="4" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="false" sourceInPoint="9964617" sourceOutPoint="11579295" startPoint="62304087" zOrder="1832">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="4" crossFadeTailClipID="6" endPoint="64708340" fileID="4" hue="-1" id="5" lockedInTime="false" looped="false" name="Neil Young - Keep on Rockin in the F 1 48000 1" offline="false" select="true" sourceInPoint="9964617" sourceOutPoint="11579295" startPoint="63093662" zOrder="2069">
           <component componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
@@ -1627,7 +1649,7 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="4" crossFadeTailClipID="-1" endPoint="66290459" fileID="4" hue="-1" id="5" lockedInTime="false" looped="false" name="Neil Young   Rockin' In The Free World Live SNL 1989 48000 1" offline="false" select="false" sourceInPoint="12153320" sourceOutPoint="14571202" startPoint="63872577" zOrder="1833">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="5" crossFadeTailClipID="-1" endPoint="67080034" fileID="5" hue="-1" id="6" lockedInTime="false" looped="false" name="Neil Young   Rockin' In The Free World Live SNL 1989 48000 1" offline="false" select="true" sourceInPoint="12153320" sourceOutPoint="14571202" startPoint="64662152" zOrder="2070">
           <effectsRack preFader="true">
             <component id="rackMix" powered="true">
               <parameter index="0" parameterValue="0"/>
@@ -2636,9 +2658,9 @@
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </masterTrack>
     </tracks>
-    <sessionState ctiPosition="51759817" smpteStart="0">
-      <selectionState selectionDuration="0" selectionStart="51759817"/>
-      <viewState horizontalViewDuration="24563165" horizontalViewStart="36878729" trackControlsWidth="224" verticalScrollOffset="0"/>
+    <sessionState ctiPosition="55113197" smpteStart="0">
+      <selectionState selectionDuration="0" selectionStart="55113197"/>
+      <viewState horizontalViewDuration="2497046" horizontalViewStart="50288683" trackControlsWidth="224" verticalScrollOffset="0"/>
       <timeFormatState beatsPerBar="4" beatsPerMinute="120.00" customFrameRate="12" linkToDefaultTimeSettings="true" noteLength="4" subdivisions="16" timeCodeDropFrame="false" timeCodeFrameRate="30" timeCodeNTSC="false" timeFormat="timeFormatDecimal"/>
     </sessionState>
     <xmpMetadata><![CDATA[<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
@@ -2648,15 +2670,15 @@
             xmlns:xmp="http://ns.adobe.com/xap/1.0/">
          <xmp:CreatorTool>Adobe Audition CS6 (Windows)</xmp:CreatorTool>
          <xmp:CreateDate>2017-04-08T18:55:06-04:00</xmp:CreateDate>
-         <xmp:MetadataDate>2017-04-17T16:11-04:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2017-04-17T16:11-04:00</xmp:ModifyDate>
+         <xmp:MetadataDate>2017-04-23T11:48:24-04:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2017-04-23T11:48:24-04:00</xmp:ModifyDate>
       </rdf:Description>
       <rdf:Description rdf:about=""
             xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
             xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
             xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#">
-         <xmpMM:InstanceID>xmp.iid:F2B2E4F9A923E7118A04FA675A24383E</xmpMM:InstanceID>
-         <xmpMM:DocumentID>xmp.did:C60B177CA923E7118A04FA675A24383E</xmpMM:DocumentID>
+         <xmpMM:InstanceID>xmp.iid:6F0C76F73B28E7119EEBA9DA97D13915</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:690C76F73B28E7119EEBA9DA97D13915</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:8C9D8D68AE1CE711A718CF2B16A3AC10</xmpMM:OriginalDocumentID>
          <xmpMM:History>
             <rdf:Seq>
@@ -4578,11 +4600,193 @@
                   <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:4F7096440727E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-21T22:56:22-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:507096440727E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-21T22:56:22-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:517096440727E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-21T22:57:37-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:527096440727E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-21T22:57:37-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:537096440727E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-21T23:00:04-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:547096440727E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-21T23:00:04-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:5F4E39946927E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-22T10:40:06-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:604E39946927E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-22T10:40:06-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:614E39946927E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-22T10:41:35-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:624E39946927E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-22T10:41:35-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:634E39946927E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-22T10:41:48-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:644E39946927E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-22T10:41:48-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:654E39946927E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-22T10:42:24-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:664E39946927E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-22T10:42:24-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:674E39946927E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-22T10:42:27-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:684E39946927E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-22T10:42:27-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:694E39946927E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-22T10:42:56-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6A2223F96927E711A60BE3D1E42E6EAD</stEvt:instanceID>
+                  <stEvt:when>2017-04-22T10:42:56-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:680C76F73B28E7119EEBA9DA97D13915</stEvt:instanceID>
+                  <stEvt:when>2017-04-23T11:46:07-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:690C76F73B28E7119EEBA9DA97D13915</stEvt:instanceID>
+                  <stEvt:when>2017-04-23T11:46:07-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6A0C76F73B28E7119EEBA9DA97D13915</stEvt:instanceID>
+                  <stEvt:when>2017-04-23T11:46:55-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6B0C76F73B28E7119EEBA9DA97D13915</stEvt:instanceID>
+                  <stEvt:when>2017-04-23T11:46:55-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6C0C76F73B28E7119EEBA9DA97D13915</stEvt:instanceID>
+                  <stEvt:when>2017-04-23T11:46:57-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6D0C76F73B28E7119EEBA9DA97D13915</stEvt:instanceID>
+                  <stEvt:when>2017-04-23T11:46:57-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6E0C76F73B28E7119EEBA9DA97D13915</stEvt:instanceID>
+                  <stEvt:when>2017-04-23T11:48:24-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6F0C76F73B28E7119EEBA9DA97D13915</stEvt:instanceID>
+                  <stEvt:when>2017-04-23T11:48:24-04:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition CS6 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <xmpMM:DerivedFrom rdf:parseType="Resource">
-            <stRef:instanceID>xmp.iid:C50B177CA923E7118A04FA675A24383E</stRef:instanceID>
-            <stRef:documentID>xmp.did:59F03B3AA523E7119D0AC34065B1B991</stRef:documentID>
+            <stRef:instanceID>xmp.iid:680C76F73B28E7119EEBA9DA97D13915</stRef:instanceID>
+            <stRef:documentID>xmp.did:604E39946927E711A60BE3D1E42E6EAD</stRef:documentID>
             <stRef:originalDocumentID>xmp.did:8C9D8D68AE1CE711A718CF2B16A3AC10</stRef:originalDocumentID>
          </xmpMM:DerivedFrom>
       </rdf:Description>
@@ -4631,7 +4835,18 @@
                                                                                                     
                            
 <?xpacket end="w"?>]]></xmpMetadata>
-    <clipGroups/>
+    <clipGroups>
+      <clipGroup hue="332" id="0">
+        <name>Group 01</name>
+        <item clipID="0" trackID="10019"/>
+        <item clipID="1" trackID="10019"/>
+        <item clipID="2" trackID="10019"/>
+        <item clipID="3" trackID="10019"/>
+        <item clipID="4" trackID="10019"/>
+        <item clipID="5" trackID="10019"/>
+        <item clipID="6" trackID="10019"/>
+      </clipGroup>
+    </clipGroups>
     <metronome enabled="false" pattern="downBeat subdivision subdivision subdivision " soundSet="sticks">
       <metronomeTrack automationLaneOpenState="false" id="40000" index="0" select="false" visible="false">
         <trackParameters trackHeight="55">
@@ -4822,9 +5037,9 @@
     <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\The Tea Party - Heaven Coming Down 48000 1.wav" id="0" mediaHandler="AmioWav" relativePath="Conformed Files/The Tea Party - Heaven Coming Down 48000 1.wav"/>
     <file absolutePath="G:\fireworks\2017\music\fireworks_2017\master_mixdown.mp3" id="1" mediaHandler="AmioMP3" relativePath="master_mixdown.mp3"/>
     <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\01 The Oaf 48000 1.wav" id="2" mediaHandler="AmioWav" relativePath="Conformed Files/01 The Oaf 48000 1.wav"/>
-    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\Neil Young - Keep on Rockin in the F 1 48000 1.wav" id="3" mediaHandler="AmioWav" relativePath="Conformed Files/Neil Young - Keep on Rockin in the F 1 48000 1.wav"/>
-    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\Neil Young   Rockin' In The Free World Live SNL 1989 48000 1.wav" id="4" mediaHandler="AmioWav" relativePath="Conformed Files/Neil Young   Rockin' In The Free World Live SNL 1989 48000 1.wav"/>
-    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\the tragically hip - fiddlers green 48000 1.wav" id="5" mediaHandler="AmioWav" relativePath="Conformed Files/the tragically hip - fiddlers green 48000 1.wav"/>
+    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\the tragically hip - fiddlers green 48000 1.wav" id="3" mediaHandler="AmioWav" relativePath="Conformed Files/the tragically hip - fiddlers green 48000 1.wav"/>
+    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\Neil Young - Keep on Rockin in the F 1 48000 1.wav" id="4" mediaHandler="AmioWav" relativePath="Conformed Files/Neil Young - Keep on Rockin in the F 1 48000 1.wav"/>
+    <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\Neil Young   Rockin' In The Free World Live SNL 1989 48000 1.wav" id="5" mediaHandler="AmioWav" relativePath="Conformed Files/Neil Young   Rockin' In The Free World Live SNL 1989 48000 1.wav"/>
     <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\09 Lost Together 48000 1.wav" id="6" mediaHandler="AmioWav" relativePath="Conformed Files/09 Lost Together 48000 1.wav"/>
     <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\01 Grab the Devil By the Horns and _ 48000 1.wav" id="7" mediaHandler="AmioWav" relativePath="Conformed Files/01 Grab the Devil By the Horns and _ 48000 1.wav"/>
     <file absolutePath="G:\fireworks\2017\music\fireworks_2017\Conformed Files\Sum 41 - Fat Lip &amp; Pain For Pleasure_up1semitone 48000 1.wav" id="8" mediaHandler="AmioWav" relativePath="Conformed Files/Sum 41 - Fat Lip &amp; Pain For Pleasure_up1semitone 48000 1.wav"/>
