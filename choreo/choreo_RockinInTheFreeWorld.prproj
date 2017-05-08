@@ -4,9 +4,9 @@
 	<Project ObjectID="1" ClassID="62ad66dd-0dcd-42da-a660-6d8fbde94876" Version="25">
 		<Node Version="1">
 			<Properties Version="1">
-				<MZ.NextSequenceIndex>2</MZ.NextSequenceIndex>
 				<MZ.PrefixKey.OpenSequenceList.1>1</MZ.PrefixKey.OpenSequenceList.1>
-				<TL.PJSnappingState>0</TL.PJSnappingState>
+				<MZ.NextSequenceIndex>2</MZ.NextSequenceIndex>
+				<TL.PJSnappingState>1</TL.PJSnappingState>
 				<ProjectViewState.Version>2</ProjectViewState.Version>
 				<ProjectViewState.List Version="3">
 					<ProjectViewStates Version="1">
@@ -638,7 +638,7 @@
 				</ProjectViewState.List>
 				<AM.PJShowWellState>0</AM.PJShowWellState>
 				<MZ.Project.ApplicationID>Pro</MZ.Project.ApplicationID>
-				<MZ.BuildVersion.Modified>319 (MC: 264587) - 4/27/2017 5:42:24 PM</MZ.BuildVersion.Modified>
+				<MZ.BuildVersion.Modified>319 (MC: 264587) - 5/7/2017 7:03:10 PM</MZ.BuildVersion.Modified>
 				<MZ.BuildVersion.Created>319 (MC: 264587) - 4/17/2017 12:33:27 PM</MZ.BuildVersion.Created>
 				<MZ.Project.GUID>a840ce47-e2b9-4cb0-8d87-19d96ce5c669</MZ.Project.GUID>
 				<project.settings.lastknowngoodprojectpath>\\?\G:\fireworks\2017\choreo\choreo_RockinInTheFreeWorld.prproj</project.settings.lastknowngoodprojectpath>
@@ -993,7 +993,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>21</NextComponentID>
+			<NextComponentID>23</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -1110,11 +1110,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>11</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>12</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>12</NextComponentID>
+			<NextComponentID>13</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="40"/>
 			</Components>
@@ -1567,7 +1567,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>23</NextComponentID>
+			<NextComponentID>25</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -1684,11 +1684,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>14</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>14</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="83"/>
 			</Components>
@@ -2123,11 +2123,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>11</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>13</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<SeqID>1</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -2202,11 +2202,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>3</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>13</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -2651,7 +2651,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>23</NextComponentID>
+			<NextComponentID>25</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -3416,11 +3416,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>7</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>19</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>19</NextComponentID>
+			<NextComponentID>21</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -3818,7 +3818,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>15</NextComponentID>
+			<NextComponentID>17</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -3935,11 +3935,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="253"/>
 			</Components>
@@ -4194,7 +4194,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>15</NextComponentID>
+			<NextComponentID>17</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -4311,11 +4311,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="274"/>
 			</Components>
@@ -4881,7 +4881,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>15</NextComponentID>
+			<NextComponentID>17</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -5201,11 +5201,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>10</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>11</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>11</NextComponentID>
+			<NextComponentID>12</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="331"/>
 			</Components>
@@ -5450,7 +5450,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>19</NextComponentID>
+			<NextComponentID>21</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -5582,7 +5582,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>15</NextComponentID>
+			<NextComponentID>17</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -5699,11 +5699,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="360"/>
 			</Components>
@@ -5958,7 +5958,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>15</NextComponentID>
+			<NextComponentID>17</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -6075,11 +6075,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="381"/>
 			</Components>
@@ -6645,7 +6645,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>15</NextComponentID>
+			<NextComponentID>17</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -6777,7 +6777,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>15</NextComponentID>
+			<NextComponentID>17</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -6894,11 +6894,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="427"/>
 			</Components>
@@ -7153,7 +7153,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>15</NextComponentID>
+			<NextComponentID>17</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -7270,11 +7270,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="448"/>
 			</Components>
@@ -7840,7 +7840,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>15</NextComponentID>
+			<NextComponentID>17</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -7972,7 +7972,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>15</NextComponentID>
+			<NextComponentID>17</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -8089,11 +8089,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="494"/>
 			</Components>
@@ -8348,7 +8348,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>15</NextComponentID>
+			<NextComponentID>17</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -8465,11 +8465,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="515"/>
 			</Components>
@@ -9035,7 +9035,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>15</NextComponentID>
+			<NextComponentID>17</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -9356,11 +9356,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="573"/>
 			</Components>
@@ -9600,7 +9600,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -9727,11 +9727,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="594"/>
 			</Components>
@@ -9971,7 +9971,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -10286,11 +10286,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="633"/>
 			</Components>
@@ -10530,7 +10530,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -10853,11 +10853,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="674"/>
 			</Components>
@@ -11097,7 +11097,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -11420,11 +11420,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="715"/>
 			</Components>
@@ -11664,7 +11664,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -11791,11 +11791,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="736"/>
 			</Components>
@@ -12035,7 +12035,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -12355,11 +12355,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="776"/>
 				<Component Index="1" ObjectRef="784"/>
@@ -12730,7 +12730,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>13</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -13497,7 +13497,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>13</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -13835,11 +13835,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="877"/>
 				<Component Index="1" ObjectRef="885"/>
@@ -14205,7 +14205,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>13</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -14342,7 +14342,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>13</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -14459,11 +14459,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="912"/>
 				<Component Index="1" ObjectRef="920"/>
@@ -14834,11 +14834,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="931"/>
 				<Component Index="1" ObjectRef="939"/>
@@ -15204,7 +15204,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>13</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -15546,7 +15546,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>13</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -16763,7 +16763,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>13</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -17342,7 +17342,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>13</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -17658,11 +17658,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>7</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>8</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1113"/>
 			</Components>
@@ -17907,7 +17907,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>13</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -18222,11 +18222,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1152"/>
 			</Components>
@@ -18466,7 +18466,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -18794,7 +18794,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -19368,7 +19368,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -20452,7 +20452,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -20900,7 +20900,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -21220,11 +21220,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1344"/>
 			</Components>
@@ -21464,7 +21464,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -21791,11 +21791,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1387"/>
 			</Components>
@@ -22036,10 +22036,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>7</MZ.ComponentChain.ActiveComponentID>
+					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -22366,10 +22367,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>7</MZ.ComponentChain.ActiveComponentID>
+					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -22486,11 +22488,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>6</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>6</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1436"/>
 				<Component Index="1" ObjectRef="1444"/>
@@ -22861,11 +22863,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>6</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>6</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1455"/>
 				<Component Index="1" ObjectRef="1463"/>
@@ -23231,7 +23233,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -23679,7 +23681,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -24127,7 +24129,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -24893,9 +24895,10 @@
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
 					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
+					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -25226,7 +25229,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>13</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -25343,11 +25346,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>7</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>8</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1610"/>
 			</Components>
@@ -25788,11 +25791,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1643"/>
 			</Components>
@@ -26034,9 +26037,10 @@
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
 					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
+					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -26163,11 +26167,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1664"/>
 			</Components>
@@ -26409,9 +26413,10 @@
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
 					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
+					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -26736,7 +26741,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>11</NextComponentID>
+			<NextComponentID>13</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -27518,7 +27523,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -27639,7 +27644,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1767"/>
 			</Components>
@@ -27889,7 +27894,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -28010,7 +28015,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1788"/>
 			</Components>
@@ -28255,11 +28260,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1801"/>
 			</Components>
@@ -28499,7 +28504,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -28810,7 +28815,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>4</NextComponentID>
+			<NextComponentID>5</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -28927,11 +28932,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1847"/>
 			</Components>
@@ -29176,11 +29181,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1860"/>
 			</Components>
@@ -29415,7 +29420,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>4</NextComponentID>
+			<NextComponentID>5</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -29961,11 +29966,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1898"/>
 				<Component Index="1" ObjectRef="1906"/>
@@ -30514,11 +30519,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1934"/>
 			</Components>
@@ -30790,11 +30795,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>13</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>14</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>14</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1947"/>
 			</Components>
@@ -31217,11 +31222,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>7</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>8</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1977"/>
 			</Components>
@@ -31456,11 +31461,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="1989"/>
 			</Components>
@@ -31732,11 +31737,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>10</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>11</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>11</NextComponentID>
+			<NextComponentID>12</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2002"/>
 			</Components>
@@ -31971,11 +31976,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>7</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>8</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2014"/>
 			</Components>
@@ -32256,11 +32261,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2027"/>
 			</Components>
@@ -32535,11 +32540,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>11</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>12</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>12</NextComponentID>
+			<NextComponentID>13</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2040"/>
 			</Components>
@@ -32774,11 +32779,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2052"/>
 				<Component Index="1" ObjectRef="2060"/>
@@ -33139,11 +33144,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>7</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>8</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2070"/>
 			</Components>
@@ -33378,11 +33383,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>7</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>8</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2082"/>
 			</Components>
@@ -33656,11 +33661,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>11</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>12</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>12</NextComponentID>
+			<NextComponentID>13</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2095"/>
 			</Components>
@@ -33895,11 +33900,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2107"/>
 			</Components>
@@ -34134,11 +34139,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2119"/>
 				<Component Index="1" ObjectRef="2127"/>
@@ -34499,11 +34504,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>9</NextComponentID>
+			<NextComponentID>10</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2137"/>
 				<Component Index="1" ObjectRef="2145"/>
@@ -34864,11 +34869,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>7</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>8</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2155"/>
 			</Components>
@@ -35144,11 +35149,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2168"/>
 			</Components>
@@ -39055,11 +39060,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>7</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>8</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>8</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2359"/>
 			</Components>
@@ -39521,11 +39526,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>10</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>10</NextComponentID>
+			<NextComponentID>11</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2390"/>
 			</Components>
@@ -39795,11 +39800,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>10</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>10</NextComponentID>
+			<NextComponentID>11</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2403"/>
 			</Components>
@@ -40131,11 +40136,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>4</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>6</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="2418"/>
 			</Components>
@@ -40611,7 +40616,7 @@
 	<Markers ObjectID="2436" ClassID="bee50706-b524-416c-9f03-b596ce5f6866" Version="3">
 		<Node Version="1">
 		</Node>
-		<LastMetadataState>9f44bcc0-83b2-60be-5512-0ffb00000028</LastMetadataState>
+		<LastMetadataState>18ba8562-1000-8a74-6e35-372400000028</LastMetadataState>
 		<ByGUID>byGUID</ByGUID>
 	</Markers>
 	<AudioMediaSource ObjectID="2437" ClassID="f588da05-fc2a-4fbc-9383-74d653b379e3" Version="2">
@@ -40731,11 +40736,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>23</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>25</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>25</NextComponentID>
+			<NextComponentID>27</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -42039,7 +42044,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>13</NextComponentID>
+			<NextComponentID>15</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -42996,7 +43001,7 @@
 		<ComponentChain Version="2">
 			<Node Version="1">
 			</Node>
-			<NextComponentID>7</NextComponentID>
+			<NextComponentID>9</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -46988,13 +46993,13 @@
 			<Properties Version="1">
 				<TL.SQAudioVisibleBase>0</TL.SQAudioVisibleBase>
 				<TL.SQVideoVisibleBase>18</TL.SQVideoVisibleBase>
-				<TL.SQVisibleBaseTime>0</TL.SQVisibleBaseTime>
+				<TL.SQVisibleBaseTime>330606814515122</TL.SQVisibleBaseTime>
 				<TL.SQAVDividerPosition>0.754717</TL.SQAVDividerPosition>
 				<TL.SQHideShyTracks>0</TL.SQHideShyTracks>
 				<TL.SQHeaderWidth>164</TL.SQHeaderWidth>
-				<Monitor.ProgramZoomOut>161131061548800</Monitor.ProgramZoomOut>
-				<Monitor.ProgramZoomIn>8721461548800</Monitor.ProgramZoomIn>
-				<TL.SQTimePerPixel>0.792239</TL.SQTimePerPixel>
+				<Monitor.ProgramZoomOut>422385027321600</Monitor.ProgramZoomOut>
+				<Monitor.ProgramZoomIn>269975427321600</Monitor.ProgramZoomIn>
+				<TL.SQTimePerPixel>0.111915</TL.SQTimePerPixel>
 				<MZ.Sequence.PreviewFrameSizeHeight>480</MZ.Sequence.PreviewFrameSizeHeight>
 				<MZ.Sequence.PreviewFrameSizeWidth>720</MZ.Sequence.PreviewFrameSizeWidth>
 				<MZ.Sequence.AudioTimeDisplayFormat>200</MZ.Sequence.AudioTimeDisplayFormat>
@@ -47005,7 +47010,8 @@
 				<MZ.Sequence.PreviewUseMaxRenderQuality>false</MZ.Sequence.PreviewUseMaxRenderQuality>
 				<MZ.Sequence.PreviewUseMaxBitDepth>false</MZ.Sequence.PreviewUseMaxBitDepth>
 				<MZ.Sequence.EditingModeGUID>0f3c7317-cf5d-44e8-8b19-1bc6d7b05ce6</MZ.Sequence.EditingModeGUID>
-				<MZ.EditLine>93774781900800</MZ.EditLine>
+				<MZ.EditLine>342374576544000</MZ.EditLine>
+				<MZ.WorkBarAdjusted>true</MZ.WorkBarAdjusted>
 				<MZ.WorkOutPoint>346239480787200</MZ.WorkOutPoint>
 				<MZ.WorkInPoint>0</MZ.WorkInPoint>
 				<Version>1</Version>
@@ -49232,8 +49238,7 @@
 		<IsProxy>false</IsProxy>
 		<ActualMediaFilePath>G:\fireworks\2017\music\fireworks_2017_mixdown.mp3</ActualMediaFilePath>
 		<RelativePath>..\music\fireworks_2017_mixdown.mp3</RelativePath>
-		<ModificationState Encoding="base64" Checksum="432669386">OQBmADQANABiAGMAYwAwAC0AOAAzAGIAMgAtADYAMABiAGUALQA1ADUAMQAy
-AC0AMABmAGYAYgAwADAAMAAwADAAMAAyADgA</ModificationState>
+		<ModificationState Encoding="base64" Checksum="432669386">OQBmADQANABiAGMAYwAwAC0AOAAzAGIAMgAtADYAMABiAGUALQA1ADUAMQAyAC0AMABmAGYAYgAwADAAMAAwADAAMAAyADgA</ModificationState>
 		<StreamNumber>0</StreamNumber>
 		<SingleAudioChannel>-1</SingleAudioChannel>
 		<IgnoreAudio>false</IgnoreAudio>
