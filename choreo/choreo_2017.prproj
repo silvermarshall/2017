@@ -638,7 +638,7 @@
 				</ProjectViewState.List>
 				<AM.PJShowWellState>0</AM.PJShowWellState>
 				<MZ.Project.ApplicationID>Pro</MZ.Project.ApplicationID>
-				<MZ.BuildVersion.Modified>319 (MC: 264587) - 6/4/2017 2:22:18 PM</MZ.BuildVersion.Modified>
+				<MZ.BuildVersion.Modified>319 (MC: 264587) - 6/27/2017 8:34:28 PM</MZ.BuildVersion.Modified>
 				<MZ.BuildVersion.Created>319 (MC: 264587) - 5/7/2017 10:02:08 AM</MZ.BuildVersion.Created>
 				<MZ.Project.GUID>ac8824fb-7372-467b-bb79-57d6e7c58369</MZ.Project.GUID>
 				<project.settings.lastknowngoodprojectpath>\\?\G:\fireworks\2017\choreo\choreo_2017.prproj</project.settings.lastknowngoodprojectpath>
@@ -975,11 +975,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>3</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<SeqID>1</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -1054,11 +1054,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>3</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -1175,7 +1175,7 @@
 	<Markers ObjectID="42" ClassID="bee50706-b524-416c-9f03-b596ce5f6866" Version="3">
 		<Node Version="1">
 		</Node>
-		<LastMetadataState>61f83d80-fb7c-d21f-b11f-4cc600000028</LastMetadataState>
+		<LastMetadataState>4d776109-1b0a-7bf5-4c34-376b00000028</LastMetadataState>
 		<ByGUID>byGUID</ByGUID>
 	</Markers>
 	<VideoMediaSource ObjectID="43" ClassID="e64ddf74-8fac-4682-8aa8-0e0ca2248949" Version="2">
@@ -1208,7 +1208,7 @@
 		<FieldTypeIsUncertain>false</FieldTypeIsUncertain>
 		<OverriddenFieldType>3</OverriddenFieldType>
 		<IsFieldTypeOverridden>false</IsFieldTypeOverridden>
-		<OriginalFieldType>0</OriginalFieldType>
+		<OriginalFieldType>1</OriginalFieldType>
 		<OverriddenInvertAlpha>false</OverriddenInvertAlpha>
 		<IsInvertAlphaOverridden>false</IsInvertAlphaOverridden>
 		<OverriddenIgnoreAlpha>false</OverriddenIgnoreAlpha>
@@ -1367,7 +1367,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>4</NextComponentID>
+			<NextComponentID>5</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="61"/>
 			</Components>
@@ -1526,7 +1526,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -1843,7 +1843,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>4</NextComponentID>
+			<NextComponentID>5</NextComponentID>
 			<Components Version="1">
 				<Component Index="0" ObjectRef="96"/>
 			</Components>
@@ -2002,7 +2002,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -2315,11 +2315,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>3</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<SeqID>1</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -2398,7 +2398,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -2711,11 +2711,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>3</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<SeqID>1</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -2794,7 +2794,7 @@
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -3099,11 +3099,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>3</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>5</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<SeqID>1</SeqID>
 		<DefaultOpacity>true</DefaultOpacity>
@@ -3179,9 +3179,10 @@
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
 					<MZ.ComponentChain.ActiveComponentID>3</MZ.ComponentChain.ActiveComponentID>
+					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>5</NextComponentID>
+			<NextComponentID>7</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -3731,11 +3732,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>9</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>11</MZ.ComponentChain.ActiveComponentID>
 					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>11</NextComponentID>
+			<NextComponentID>13</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -4920,6 +4921,7 @@
 						<TL.SQTrackCollapsedHeight>25</TL.SQTrackCollapsedHeight>
 						<TL.SQTrackExpandedHeight>45</TL.SQTrackExpandedHeight>
 						<TL.SQTrackExpanded>1</TL.SQTrackExpanded>
+						<Version>1</Version>
 					</Properties>
 				</Node>
 				<IsSyncLocked>true</IsSyncLocked>
@@ -4985,6 +4987,7 @@
 				<Properties Version="1">
 					<asl.clip.label.name>BE.Prefs.LabelColors.2</asl.clip.label.name>
 					<asl.clip.label.color>10016297</asl.clip.label.color>
+					<Version>1</Version>
 				</Properties>
 			</Node>
 			<MarkerOwner Version="1">
@@ -5047,6 +5050,7 @@
 				<Properties Version="1">
 					<asl.clip.label.name>BE.Prefs.LabelColors.2</asl.clip.label.name>
 					<asl.clip.label.color>10016297</asl.clip.label.color>
+					<Version>1</Version>
 				</Properties>
 			</Node>
 			<MarkerOwner Version="1">
@@ -5119,10 +5123,11 @@
 			<Node Version="1">
 				<Properties Version="1">
 					<MZ.ComponentChain.ActiveComponentParamIndex>4294967295</MZ.ComponentChain.ActiveComponentParamIndex>
-					<MZ.ComponentChain.ActiveComponentID>1</MZ.ComponentChain.ActiveComponentID>
+					<MZ.ComponentChain.ActiveComponentID>3</MZ.ComponentChain.ActiveComponentID>
+					<Version>1</Version>
 				</Properties>
 			</Node>
-			<NextComponentID>3</NextComponentID>
+			<NextComponentID>5</NextComponentID>
 		</ComponentChain>
 		<DefaultVol>true</DefaultVol>
 		<AutomationMode>1</AutomationMode>
@@ -6199,6 +6204,7 @@
 				<Properties Version="1">
 					<Column.PropertyText.Label>BE.Prefs.LabelColors.2</Column.PropertyText.Label>
 					<project.icon.view.grid.order>8</project.icon.view.grid.order>
+					<Version>1</Version>
 				</Properties>
 			</Node>
 			<Name>fireworks_2017_mixdown_withFrontBuffer.mp3</Name>
@@ -6243,7 +6249,8 @@
 		<IsProxy>false</IsProxy>
 		<ActualMediaFilePath>G:\fireworks\2017\choreo\HeavenComingDown.mp4</ActualMediaFilePath>
 		<RelativePath>.\HeavenComingDown.mp4</RelativePath>
-		<ModificationState Encoding="base64" Checksum="181050314">YQAyADMANwBmADEAYQA3AC0AMgBlAGIAYgAtADUAZQBjADUALQAyADkANABiAC0AMQBmAGUAOAAwADAAMAAwADAAMAAyADgA</ModificationState>
+		<ModificationState Encoding="base64" Checksum="818609354">NABkADcANwA2ADEAMAA5AC0AMQBiADAAYQAtADcAYgBmADUALQA0AGMAMwA0
+AC0AMwA3ADYAYgAwADAAMAAwADAAMAAyADgA</ModificationState>
 		<StreamNumber>0</StreamNumber>
 		<SingleAudioChannel>-1</SingleAudioChannel>
 		<IgnoreAudio>false</IgnoreAudio>
@@ -6254,12 +6261,12 @@
 		<Infinite>false</Infinite>
 		<LogComment></LogComment>
 		<AlternateTapeName></AlternateTapeName>
-		<AlternateStart>0</AlternateStart>
+		<AlternateStart>2542700160000</AlternateStart>
 		<FileKey>c7646f5d-f16d-48b0-87ae-f6aea171e572</FileKey>
 		<Title>HeavenComingDown.mp4</Title>
 		<ImplementationID>1fa18bfa-255c-44b1-ad73-56bcd99fceaf</ImplementationID>
 		<FilePath>G:\fireworks\2017\choreo\HeavenComingDown.mp4</FilePath>
-		<Start>0</Start>
+		<Start>2542700160000</Start>
 		<TapeName></TapeName>
 		<AudioStream ObjectRef="44"/>
 		<VideoStream ObjectRef="45"/>
@@ -6302,8 +6309,7 @@
 		<IsProxy>false</IsProxy>
 		<ActualMediaFilePath>G:\fireworks\2017\music\fireworks_2017_mixdown_withFrontBuffer.mp3</ActualMediaFilePath>
 		<RelativePath>..\music\fireworks_2017_mixdown_withFrontBuffer.mp3</RelativePath>
-		<ModificationState Encoding="base64" Checksum="46818762">YwA1ADUAYgA1AGYAZABhAC0AOQA4ADkAZAAtADcAOABjAGIALQBlADAAZgA3
-AC0AMAA4ADUANgAwADAAMAAwADAAMAAyADgA</ModificationState>
+		<ModificationState Encoding="base64" Checksum="46818762">YwA1ADUAYgA1AGYAZABhAC0AOQA4ADkAZAAtADcAOABjAGIALQBlADAAZgA3AC0AMAA4ADUANgAwADAAMAAwADAAMAAyADgA</ModificationState>
 		<StreamNumber>0</StreamNumber>
 		<SingleAudioChannel>-1</SingleAudioChannel>
 		<IgnoreAudio>false</IgnoreAudio>
@@ -6328,13 +6334,13 @@ AC0AMAA4ADUANgAwADAAMAAwADAAMAAyADgA</ModificationState>
 			<Properties Version="1">
 				<TL.SQAudioVisibleBase>0</TL.SQAudioVisibleBase>
 				<TL.SQVideoVisibleBase>0</TL.SQVideoVisibleBase>
-				<TL.SQVisibleBaseTime>2876794175367</TL.SQVisibleBaseTime>
+				<TL.SQVisibleBaseTime>0</TL.SQVisibleBaseTime>
 				<TL.SQAVDividerPosition>0.5</TL.SQAVDividerPosition>
 				<TL.SQHideShyTracks>0</TL.SQHideShyTracks>
 				<TL.SQHeaderWidth>164</TL.SQHeaderWidth>
 				<Monitor.ProgramZoomOut>152409600000000</Monitor.ProgramZoomOut>
 				<Monitor.ProgramZoomIn>0</Monitor.ProgramZoomIn>
-				<TL.SQTimePerPixel>0.364646</TL.SQTimePerPixel>
+				<TL.SQTimePerPixel>1.57951</TL.SQTimePerPixel>
 				<Seq.IgnoreMarkersAndIngredients>false</Seq.IgnoreMarkersAndIngredients>
 				<MZ.Sequence.PreviewFrameSizeHeight>1080</MZ.Sequence.PreviewFrameSizeHeight>
 				<MZ.Sequence.PreviewFrameSizeWidth>1440</MZ.Sequence.PreviewFrameSizeWidth>
@@ -6346,7 +6352,7 @@ AC0AMAA4ADUANgAwADAAMAAwADAAMAAyADgA</ModificationState>
 				<MZ.Sequence.PreviewUseMaxRenderQuality>false</MZ.Sequence.PreviewUseMaxRenderQuality>
 				<MZ.Sequence.PreviewUseMaxBitDepth>false</MZ.Sequence.PreviewUseMaxBitDepth>
 				<MZ.Sequence.EditingModeGUID>6c808930-c9a9-11da-a94d-0800200c9a66</MZ.Sequence.EditingModeGUID>
-				<MZ.EditLine>57448072281600</MZ.EditLine>
+				<MZ.EditLine>70220902752000</MZ.EditLine>
 				<MZ.WorkOutPoint>348909315955200</MZ.WorkOutPoint>
 				<MZ.WorkInPoint>0</MZ.WorkInPoint>
 				<Version>1</Version>
